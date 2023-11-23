@@ -1,0 +1,44 @@
+
+@font-face {
+  font-family: 'The Quick South St Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('The Quick South St Regular'), url('The Quick South St.woff') format('woff');
+  }  
+@font-face {
+  font-family: 'calendar note tfb Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('calendar note tfb Regular'), url('calendar note tfb.woff') format('woff');
+  }  
+
+body{
+  background: linear-gradient(to right, rgb(219, 135, 173), rgb(39, 242, 237));
+  padding: 3%;
+  
+}
+
+.header h1{
+  font-family: 'The Quick South St Regular';
+  font-weight: 100;
+  
+}
+h1{
+  font-family: 'calendar note tfb Regular';
+}
+.card{
+  margin: 5%;
+}
+.card-wraper{
+  height: 600px;
+  overflow: scroll;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.toTopBtn{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+
+}
