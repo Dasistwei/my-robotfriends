@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-robotfriends/static/css/main.bf2cba88.css",
+    "main.js": "/my-robotfriends/static/js/main.6e7b4c34.js",
+    "static/js/787.66528c70.chunk.js": "/my-robotfriends/static/js/787.66528c70.chunk.js",
+    "static/media/The Quick South St.woff": "/my-robotfriends/static/media/The Quick South St.14619c8f87f5963de6cc.woff",
+    "static/media/calendar note tfb.woff": "/my-robotfriends/static/media/calendar note tfb.9ff09f8bd3c212078d46.woff",
+    "index.html": "/my-robotfriends/index.html",
+    "main.bf2cba88.css.map": "/my-robotfriends/static/css/main.bf2cba88.css.map",
+    "main.6e7b4c34.js.map": "/my-robotfriends/static/js/main.6e7b4c34.js.map",
+    "787.66528c70.chunk.js.map": "/my-robotfriends/static/js/787.66528c70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf2cba88.css",
+    "static/js/main.6e7b4c34.js"
+  ]
+}
